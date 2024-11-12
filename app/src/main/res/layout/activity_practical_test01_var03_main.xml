@@ -13,14 +13,15 @@
         android:padding="16dp"
         android:gravity="center"
         app:layout_constraintTop_toTopOf="parent">
+
         <EditText
             android:id="@+id/editTextText"
-            android:layout_width="394dp"
+            android:layout_width="357dp"
             android:layout_height="79dp"
             android:ems="10"
             android:inputType="text"
-            android:text="Intordu numar"
             android:saveEnabled="false"
+            android:text="Intordu numar"
             tools:layout_editor_absoluteX="11dp"
             tools:layout_editor_absoluteY="45dp" />
 
@@ -56,14 +57,15 @@
                 tools:layout_editor_absoluteX="217dp"
                 tools:layout_editor_absoluteY="137dp" />
         </GridLayout>
+
         <EditText
             android:id="@+id/editTextText2"
-            android:layout_width="395dp"
+            android:layout_width="367dp"
             android:layout_height="60dp"
             android:ems="10"
             android:inputType="text"
-            android:text="Introdu numar"
             android:saveEnabled="false"
+            android:text="Introdu numar"
             tools:layout_editor_absoluteX="8dp"
             tools:layout_editor_absoluteY="207dp" />
 
